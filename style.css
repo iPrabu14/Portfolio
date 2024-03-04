@@ -204,12 +204,12 @@ header{
     position: relative;
     animation: circleAni linear infinite 20s;
 }
-/*@keyframes circleAni{
+@keyframes circleAni{
     to{
         transform: rotate(360deg);
-        /* filter: hue-rotate(360deg);
+        /* filter: hue-rotate(360deg);*/
     }
-}*/
+}
 .circle a{
     width: 4rem;
     height: 4rem;
